@@ -1,0 +1,7 @@
+D:\d\Winform\Bai1-Chuong1\Bai1\bin\Debug\Bai1.exe.config
+D:\d\Winform\Bai1-Chuong1\Bai1\bin\Debug\Bai1.exe
+D:\d\Winform\Bai1-Chuong1\Bai1\bin\Debug\Bai1.pdb
+D:\d\Winform\Bai1-Chuong1\Bai1\obj\Debug\Bai1.csproj.AssemblyReference.cache
+D:\d\Winform\Bai1-Chuong1\Bai1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+D:\d\Winform\Bai1-Chuong1\Bai1\obj\Debug\Bai1.exe
+D:\d\Winform\Bai1-Chuong1\Bai1\obj\Debug\Bai1.pdb
