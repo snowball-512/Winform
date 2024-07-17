@@ -1,0 +1,7 @@
+D:\d\LTW\Winform\baitap\baitap\bin\Debug\baitap.exe.config
+D:\d\LTW\Winform\baitap\baitap\bin\Debug\baitap.exe
+D:\d\LTW\Winform\baitap\baitap\bin\Debug\baitap.pdb
+D:\d\LTW\Winform\baitap\baitap\obj\Debug\baitap.csproj.AssemblyReference.cache
+D:\d\LTW\Winform\baitap\baitap\obj\Debug\baitap.csproj.CoreCompileInputs.cache
+D:\d\LTW\Winform\baitap\baitap\obj\Debug\baitap.exe
+D:\d\LTW\Winform\baitap\baitap\obj\Debug\baitap.pdb
