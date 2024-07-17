@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\d\\Winform\\Bai1-Chuong1\\",
+  "WorkspaceRootPath": "D:\\d\\LTW\\Winform\\Bai1-Chuong1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1EC1E623-FA4C-49EE-9BFC-A018F413B09D}|Bai1\\Bai1.csproj|d:\\d\\winform\\bai1-chuong1\\bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EC1E623-FA4C-49EE-9BFC-A018F413B09D}|Bai1\\Bai1.csproj|solutionrelative:bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\d\\LTW\\Winform\\Bai1-Chuong1\\Bai1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bai1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\d\\Winform\\Bai1-Chuong1\\Bai1\\Program.cs",
+              "DocumentMoniker": "D:\\d\\LTW\\Winform\\Bai1-Chuong1\\Bai1\\Program.cs",
               "RelativeDocumentMoniker": "Bai1\\Program.cs",
-              "ToolTip": "D:\\d\\Winform\\Bai1-Chuong1\\Bai1\\Program.cs",
+              "ToolTip": "D:\\d\\LTW\\Winform\\Bai1-Chuong1\\Bai1\\Program.cs",
               "RelativeToolTip": "Bai1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-17T00:14:09.06Z",
               "EditorCaption": ""

@@ -1,0 +1,11 @@
+D:\d\LTW\Winform\GkDe1\GkDe1\bin\Debug\GkDe1.exe.config
+D:\d\LTW\Winform\GkDe1\GkDe1\bin\Debug\GkDe1.exe
+D:\d\LTW\Winform\GkDe1\GkDe1\bin\Debug\GkDe1.pdb
+D:\d\LTW\Winform\GkDe1\GkDe1\obj\Debug\GkDe1.csproj.AssemblyReference.cache
+D:\d\LTW\Winform\GkDe1\GkDe1\obj\Debug\GkDe1.Form1.resources
+D:\d\LTW\Winform\GkDe1\GkDe1\obj\Debug\GkDe1.Properties.Resources.resources
+D:\d\LTW\Winform\GkDe1\GkDe1\obj\Debug\GkDe1.csproj.GenerateResource.cache
+D:\d\LTW\Winform\GkDe1\GkDe1\obj\Debug\GkDe1.csproj.CoreCompileInputs.cache
+D:\d\LTW\Winform\GkDe1\GkDe1\obj\Debug\GkDe1.exe
+D:\d\LTW\Winform\GkDe1\GkDe1\obj\Debug\GkDe1.pdb
+D:\d\LTW\Winform\GkDe1\GkDe1\obj\Debug\GkDe1.Form2.resources
