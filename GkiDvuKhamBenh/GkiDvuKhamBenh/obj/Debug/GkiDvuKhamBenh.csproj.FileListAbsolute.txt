@@ -1,0 +1,10 @@
+D:\d\LTW\Winform\GkiDvuKhamBenh\GkiDvuKhamBenh\bin\Debug\GkiDvuKhamBenh.exe.config
+D:\d\LTW\Winform\GkiDvuKhamBenh\GkiDvuKhamBenh\bin\Debug\GkiDvuKhamBenh.exe
+D:\d\LTW\Winform\GkiDvuKhamBenh\GkiDvuKhamBenh\bin\Debug\GkiDvuKhamBenh.pdb
+D:\d\LTW\Winform\GkiDvuKhamBenh\GkiDvuKhamBenh\obj\Debug\GkiDvuKhamBenh.csproj.AssemblyReference.cache
+D:\d\LTW\Winform\GkiDvuKhamBenh\GkiDvuKhamBenh\obj\Debug\GkiDvuKhamBenh.Form1.resources
+D:\d\LTW\Winform\GkiDvuKhamBenh\GkiDvuKhamBenh\obj\Debug\GkiDvuKhamBenh.Properties.Resources.resources
+D:\d\LTW\Winform\GkiDvuKhamBenh\GkiDvuKhamBenh\obj\Debug\GkiDvuKhamBenh.csproj.GenerateResource.cache
+D:\d\LTW\Winform\GkiDvuKhamBenh\GkiDvuKhamBenh\obj\Debug\GkiDvuKhamBenh.csproj.CoreCompileInputs.cache
+D:\d\LTW\Winform\GkiDvuKhamBenh\GkiDvuKhamBenh\obj\Debug\GkiDvuKhamBenh.exe
+D:\d\LTW\Winform\GkiDvuKhamBenh\GkiDvuKhamBenh\obj\Debug\GkiDvuKhamBenh.pdb
