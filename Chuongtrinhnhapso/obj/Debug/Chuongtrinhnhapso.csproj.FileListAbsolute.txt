@@ -1,0 +1,10 @@
+D:\d\LTW\Winform\Chuongtrinhnhapso\obj\Debug\Chuongtrinhnhapso.csproj.AssemblyReference.cache
+D:\d\LTW\Winform\Chuongtrinhnhapso\obj\Debug\Chuongtrinhnhapso.Form1.resources
+D:\d\LTW\Winform\Chuongtrinhnhapso\obj\Debug\Chuongtrinhnhapso.Properties.Resources.resources
+D:\d\LTW\Winform\Chuongtrinhnhapso\obj\Debug\Chuongtrinhnhapso.csproj.GenerateResource.cache
+D:\d\LTW\Winform\Chuongtrinhnhapso\obj\Debug\Chuongtrinhnhapso.csproj.CoreCompileInputs.cache
+D:\d\LTW\Winform\Chuongtrinhnhapso\bin\Debug\Chuongtrinhnhapso.exe.config
+D:\d\LTW\Winform\Chuongtrinhnhapso\bin\Debug\Chuongtrinhnhapso.exe
+D:\d\LTW\Winform\Chuongtrinhnhapso\bin\Debug\Chuongtrinhnhapso.pdb
+D:\d\LTW\Winform\Chuongtrinhnhapso\obj\Debug\Chuongtrinhnhapso.exe
+D:\d\LTW\Winform\Chuongtrinhnhapso\obj\Debug\Chuongtrinhnhapso.pdb

@@ -1,0 +1,11 @@
+D:\d\LTW\Winform\BangKetQuaHocTap\bin\Debug\BangKetQuaHocTap.exe.config
+D:\d\LTW\Winform\BangKetQuaHocTap\bin\Debug\BangKetQuaHocTap.exe
+D:\d\LTW\Winform\BangKetQuaHocTap\bin\Debug\BangKetQuaHocTap.pdb
+D:\d\LTW\Winform\BangKetQuaHocTap\obj\Debug\BangKetQuaHocTap.csproj.AssemblyReference.cache
+D:\d\LTW\Winform\BangKetQuaHocTap\obj\Debug\BangKetQuaHocTap.Properties.Resources.resources
+D:\d\LTW\Winform\BangKetQuaHocTap\obj\Debug\BangKetQuaHocTap.csproj.GenerateResource.cache
+D:\d\LTW\Winform\BangKetQuaHocTap\obj\Debug\BangKetQuaHocTap.csproj.CoreCompileInputs.cache
+D:\d\LTW\Winform\BangKetQuaHocTap\obj\Debug\BangKetQuaHocTap.exe
+D:\d\LTW\Winform\BangKetQuaHocTap\obj\Debug\BangKetQuaHocTap.pdb
+D:\d\LTW\Winform\BangKetQuaHocTap\obj\Debug\BangKetQuaHocTap.Form1.resources
+D:\d\LTW\Winform\BangKetQuaHocTap\obj\Debug\BangKetQuaHocTap.Formcha.resources

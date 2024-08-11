@@ -1,0 +1,10 @@
+D:\d\LTW\Winform\QuanLyKhoHoaChat\bin\Debug\QuanLyKhoHoaChat.exe.config
+D:\d\LTW\Winform\QuanLyKhoHoaChat\bin\Debug\QuanLyKhoHoaChat.exe
+D:\d\LTW\Winform\QuanLyKhoHoaChat\bin\Debug\QuanLyKhoHoaChat.pdb
+D:\d\LTW\Winform\QuanLyKhoHoaChat\obj\Debug\QuanLyKhoHoaChat.csproj.AssemblyReference.cache
+D:\d\LTW\Winform\QuanLyKhoHoaChat\obj\Debug\QuanLyKhoHoaChat.Form1.resources
+D:\d\LTW\Winform\QuanLyKhoHoaChat\obj\Debug\QuanLyKhoHoaChat.Properties.Resources.resources
+D:\d\LTW\Winform\QuanLyKhoHoaChat\obj\Debug\QuanLyKhoHoaChat.csproj.GenerateResource.cache
+D:\d\LTW\Winform\QuanLyKhoHoaChat\obj\Debug\QuanLyKhoHoaChat.csproj.CoreCompileInputs.cache
+D:\d\LTW\Winform\QuanLyKhoHoaChat\obj\Debug\QuanLyKhoHoaChat.exe
+D:\d\LTW\Winform\QuanLyKhoHoaChat\obj\Debug\QuanLyKhoHoaChat.pdb
