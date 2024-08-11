@@ -1,0 +1,10 @@
+D:\d\LTW\Winform\DichVukhambenh\bin\Debug\DichVukhambenh.exe.config
+D:\d\LTW\Winform\DichVukhambenh\bin\Debug\DichVukhambenh.exe
+D:\d\LTW\Winform\DichVukhambenh\bin\Debug\DichVukhambenh.pdb
+D:\d\LTW\Winform\DichVukhambenh\obj\Debug\DichVukhambenh.csproj.AssemblyReference.cache
+D:\d\LTW\Winform\DichVukhambenh\obj\Debug\DichVukhambenh.Form1.resources
+D:\d\LTW\Winform\DichVukhambenh\obj\Debug\DichVukhambenh.Properties.Resources.resources
+D:\d\LTW\Winform\DichVukhambenh\obj\Debug\DichVukhambenh.csproj.GenerateResource.cache
+D:\d\LTW\Winform\DichVukhambenh\obj\Debug\DichVukhambenh.csproj.CoreCompileInputs.cache
+D:\d\LTW\Winform\DichVukhambenh\obj\Debug\DichVukhambenh.exe
+D:\d\LTW\Winform\DichVukhambenh\obj\Debug\DichVukhambenh.pdb

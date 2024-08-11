@@ -1,0 +1,10 @@
+D:\d\LTW\Winform\QuanLyDiemThi\QuanLyDiemThi\bin\Debug\QuanLyDiemThi.exe.config
+D:\d\LTW\Winform\QuanLyDiemThi\QuanLyDiemThi\bin\Debug\QuanLyDiemThi.exe
+D:\d\LTW\Winform\QuanLyDiemThi\QuanLyDiemThi\bin\Debug\QuanLyDiemThi.pdb
+D:\d\LTW\Winform\QuanLyDiemThi\QuanLyDiemThi\obj\Debug\QuanLyDiemThi.csproj.AssemblyReference.cache
+D:\d\LTW\Winform\QuanLyDiemThi\QuanLyDiemThi\obj\Debug\QuanLyDiemThi.Form1.resources
+D:\d\LTW\Winform\QuanLyDiemThi\QuanLyDiemThi\obj\Debug\QuanLyDiemThi.Properties.Resources.resources
+D:\d\LTW\Winform\QuanLyDiemThi\QuanLyDiemThi\obj\Debug\QuanLyDiemThi.csproj.GenerateResource.cache
+D:\d\LTW\Winform\QuanLyDiemThi\QuanLyDiemThi\obj\Debug\QuanLyDiemThi.csproj.CoreCompileInputs.cache
+D:\d\LTW\Winform\QuanLyDiemThi\QuanLyDiemThi\obj\Debug\QuanLyDiemThi.exe
+D:\d\LTW\Winform\QuanLyDiemThi\QuanLyDiemThi\obj\Debug\QuanLyDiemThi.pdb
