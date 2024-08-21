@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\DanhMucNhanVien\bin\Debug\DanhMucNhanVien.exe.config
+C:\Users\DELL\source\repos\DanhMucNhanVien\bin\Debug\DanhMucNhanVien.exe
+C:\Users\DELL\source\repos\DanhMucNhanVien\bin\Debug\DanhMucNhanVien.pdb
+C:\Users\DELL\source\repos\DanhMucNhanVien\obj\Debug\DanhMucNhanVien.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\DanhMucNhanVien\obj\Debug\DanhMucNhanVien.Form1.resources
+C:\Users\DELL\source\repos\DanhMucNhanVien\obj\Debug\DanhMucNhanVien.Properties.Resources.resources
+C:\Users\DELL\source\repos\DanhMucNhanVien\obj\Debug\DanhMucNhanVien.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\DanhMucNhanVien\obj\Debug\DanhMucNhanVien.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\DanhMucNhanVien\obj\Debug\DanhMucNhanVien.exe
+C:\Users\DELL\source\repos\DanhMucNhanVien\obj\Debug\DanhMucNhanVien.pdb

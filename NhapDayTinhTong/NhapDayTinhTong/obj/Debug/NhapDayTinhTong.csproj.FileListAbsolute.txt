@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\NhapDayTinhTong\NhapDayTinhTong\bin\Debug\NhapDayTinhTong.exe.config
+C:\Users\DELL\source\repos\NhapDayTinhTong\NhapDayTinhTong\bin\Debug\NhapDayTinhTong.exe
+C:\Users\DELL\source\repos\NhapDayTinhTong\NhapDayTinhTong\bin\Debug\NhapDayTinhTong.pdb
+C:\Users\DELL\source\repos\NhapDayTinhTong\NhapDayTinhTong\obj\Debug\NhapDayTinhTong.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\NhapDayTinhTong\NhapDayTinhTong\obj\Debug\NhapDayTinhTong.Form1.resources
+C:\Users\DELL\source\repos\NhapDayTinhTong\NhapDayTinhTong\obj\Debug\NhapDayTinhTong.Form2.resources
+C:\Users\DELL\source\repos\NhapDayTinhTong\NhapDayTinhTong\obj\Debug\NhapDayTinhTong.Properties.Resources.resources
+C:\Users\DELL\source\repos\NhapDayTinhTong\NhapDayTinhTong\obj\Debug\NhapDayTinhTong.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\NhapDayTinhTong\NhapDayTinhTong\obj\Debug\NhapDayTinhTong.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\NhapDayTinhTong\NhapDayTinhTong\obj\Debug\NhapDayTinhTong.exe
+C:\Users\DELL\source\repos\NhapDayTinhTong\NhapDayTinhTong\obj\Debug\NhapDayTinhTong.pdb

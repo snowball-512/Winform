@@ -1,0 +1,10 @@
+D:\d\LTW\Winform\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\d\LTW\Winform\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\d\LTW\Winform\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\d\LTW\Winform\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+D:\d\LTW\Winform\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form1.resources
+D:\d\LTW\Winform\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\d\LTW\Winform\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+D:\d\LTW\Winform\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\d\LTW\Winform\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\d\LTW\Winform\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
