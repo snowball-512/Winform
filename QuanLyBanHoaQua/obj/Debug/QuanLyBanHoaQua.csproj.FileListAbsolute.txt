@@ -1,0 +1,11 @@
+D:\d\LTW\Winform\QuanLyBanHoaQua\bin\Debug\QuanLyBanHoaQua.exe.config
+D:\d\LTW\Winform\QuanLyBanHoaQua\bin\Debug\QuanLyBanHoaQua.exe
+D:\d\LTW\Winform\QuanLyBanHoaQua\bin\Debug\QuanLyBanHoaQua.pdb
+D:\d\LTW\Winform\QuanLyBanHoaQua\obj\Debug\QuanLyBanHoaQua.csproj.AssemblyReference.cache
+D:\d\LTW\Winform\QuanLyBanHoaQua\obj\Debug\QuanLyBanHoaQua.Form1.resources
+D:\d\LTW\Winform\QuanLyBanHoaQua\obj\Debug\QuanLyBanHoaQua.Form2.resources
+D:\d\LTW\Winform\QuanLyBanHoaQua\obj\Debug\QuanLyBanHoaQua.Properties.Resources.resources
+D:\d\LTW\Winform\QuanLyBanHoaQua\obj\Debug\QuanLyBanHoaQua.csproj.GenerateResource.cache
+D:\d\LTW\Winform\QuanLyBanHoaQua\obj\Debug\QuanLyBanHoaQua.csproj.CoreCompileInputs.cache
+D:\d\LTW\Winform\QuanLyBanHoaQua\obj\Debug\QuanLyBanHoaQua.exe
+D:\d\LTW\Winform\QuanLyBanHoaQua\obj\Debug\QuanLyBanHoaQua.pdb

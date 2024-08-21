@@ -1,0 +1,11 @@
+D:\d\LTW\Winform\QuanLyKetQuaHocTap\bin\Debug\QuanLyKetQuaHocTap.exe.config
+D:\d\LTW\Winform\QuanLyKetQuaHocTap\bin\Debug\QuanLyKetQuaHocTap.exe
+D:\d\LTW\Winform\QuanLyKetQuaHocTap\bin\Debug\QuanLyKetQuaHocTap.pdb
+D:\d\LTW\Winform\QuanLyKetQuaHocTap\obj\Debug\QuanLyKetQuaHocTap.csproj.AssemblyReference.cache
+D:\d\LTW\Winform\QuanLyKetQuaHocTap\obj\Debug\QuanLyKetQuaHocTap.Form1.resources
+D:\d\LTW\Winform\QuanLyKetQuaHocTap\obj\Debug\QuanLyKetQuaHocTap.Properties.Resources.resources
+D:\d\LTW\Winform\QuanLyKetQuaHocTap\obj\Debug\QuanLyKetQuaHocTap.csproj.GenerateResource.cache
+D:\d\LTW\Winform\QuanLyKetQuaHocTap\obj\Debug\QuanLyKetQuaHocTap.csproj.CoreCompileInputs.cache
+D:\d\LTW\Winform\QuanLyKetQuaHocTap\obj\Debug\QuanLyKetQuaHocTap.exe
+D:\d\LTW\Winform\QuanLyKetQuaHocTap\obj\Debug\QuanLyKetQuaHocTap.pdb
+D:\d\LTW\Winform\QuanLyKetQuaHocTap\obj\Debug\QuanLyKetQuaHocTap.Form2.resources

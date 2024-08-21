@@ -1,0 +1,10 @@
+D:\d\LTW\Winform\ThongTinSach\bin\Debug\ThongTinSach.exe.config
+D:\d\LTW\Winform\ThongTinSach\bin\Debug\ThongTinSach.exe
+D:\d\LTW\Winform\ThongTinSach\bin\Debug\ThongTinSach.pdb
+D:\d\LTW\Winform\ThongTinSach\obj\Debug\ThongTinSach.csproj.AssemblyReference.cache
+D:\d\LTW\Winform\ThongTinSach\obj\Debug\ThongTinSach.Form1.resources
+D:\d\LTW\Winform\ThongTinSach\obj\Debug\ThongTinSach.Properties.Resources.resources
+D:\d\LTW\Winform\ThongTinSach\obj\Debug\ThongTinSach.csproj.GenerateResource.cache
+D:\d\LTW\Winform\ThongTinSach\obj\Debug\ThongTinSach.csproj.CoreCompileInputs.cache
+D:\d\LTW\Winform\ThongTinSach\obj\Debug\ThongTinSach.exe
+D:\d\LTW\Winform\ThongTinSach\obj\Debug\ThongTinSach.pdb

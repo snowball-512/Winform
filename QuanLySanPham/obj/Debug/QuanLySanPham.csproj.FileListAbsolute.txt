@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\QuanLySanPham\bin\Debug\QuanLySanPham.exe.config
+C:\Users\DELL\source\repos\QuanLySanPham\bin\Debug\QuanLySanPham.exe
+C:\Users\DELL\source\repos\QuanLySanPham\bin\Debug\QuanLySanPham.pdb
+C:\Users\DELL\source\repos\QuanLySanPham\obj\Debug\QuanLySanPham.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\QuanLySanPham\obj\Debug\QuanLySanPham.Form1.resources
+C:\Users\DELL\source\repos\QuanLySanPham\obj\Debug\QuanLySanPham.Properties.Resources.resources
+C:\Users\DELL\source\repos\QuanLySanPham\obj\Debug\QuanLySanPham.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\QuanLySanPham\obj\Debug\QuanLySanPham.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\QuanLySanPham\obj\Debug\QuanLySanPham.exe
+C:\Users\DELL\source\repos\QuanLySanPham\obj\Debug\QuanLySanPham.pdb
+C:\Users\DELL\source\repos\QuanLySanPham\obj\Debug\QuanLySanPham.Form2.resources
